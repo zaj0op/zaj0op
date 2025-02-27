@@ -21,16 +21,16 @@
 ## 📜 Certifications
 <ul>
 <li>Cyber Security: Securing you in the Cyber World 
-  <a href = "https://drive.google.com/file/d/1o5k-ED_NEx7KiJ7lAqD1wmSWJiSyV7d3/view">🔗</a>
+  <a href = "https://drive.google.com/file/d/1w5D3s_u_DcEWPqCmb1t-wyLdgbvT0Fjz/view?usp=sharing">🔗</a>
 </li>
 <li>AWS Academy Graduate - AWS Academy Cloud Foundations 
   <a href ="https://www.credly.com/badges/82706c73-802e-4a26-9354-90002f82e4ab/linked_in_profile">🔗</a>
 </li>
 <li>Red Hat System Administration I (RH124) 
-  <a href ="https://drive.google.com/file/d/17IOdNLTsg9HvRhqk5Bu9bSESmv_Yagho/view?usp=drive_link">🔗</a>
+  <a href ="https://drive.google.com/file/d/1L6_QLoeUnREpCESaOht3pFlq_sF6tYoL/view?usp=sharing">🔗</a>
 </li>
 <li>Experiencing ICT Web Development 
-  <a href ="https://drive.google.com/file/d/133D5w21P-5QdBvw1wt_OmfdR-VKCoypg/view?usp=drive_link">🔗</a>
+  <a href ="https://drive.google.com/file/d/1r11X0OwECFBANZlMzGZXmWuADCOY3nD1/view?usp=sharing">🔗</a>
 </li>
 </ul>
 
@@ -51,7 +51,6 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=zaj0op&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=false&count_private=true)
